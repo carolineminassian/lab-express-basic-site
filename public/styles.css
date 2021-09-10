@@ -1,0 +1,32 @@
+* {
+  font: 24px sans-serif;
+}
+
+#images {
+  max-width: 100%;
+  max-height: 20em;
+}
+
+nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+nav a {
+  text-decoration: 0;
+  color: #f000a8;
+}
+
+ul li {
+  font-size: 18px;
+  font-style: italic;
+}
+
+article,
+p {
+  font-size: smaller;
+}
+
+h1 {
+  font-weight: bold;
+}
